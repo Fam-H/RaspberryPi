@@ -12,7 +12,7 @@ systemctl is-active ssh
 
 sudo systemctl enable --now ssh
 
-PC에서 접속  
+## 3. PC에서 접속
 ssh 사용자명@IP주소  
 ssh enitt@192.168.10.16  
 
